@@ -7,7 +7,7 @@ Date: May 31, 2026
 
 <div align="center">
 
-# WinXP Theme Documentation
+# Windows XP Inspired Theme Documentation
 
 A static GitHub Pages-ready website theme inspired by Windows XP styling
 </div>
