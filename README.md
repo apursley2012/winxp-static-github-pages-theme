@@ -1,6 +1,3 @@
-# winxp-static-github-pages-theme
-A static GitHub Pages-ready website theme inspired by Windows XP styling
-
 <!--
 File: README.md
 Document Title: WinXP Theme Documentation
@@ -11,6 +8,8 @@ Date: May 31, 2026
 <div align="center">
 
 # WinXP Theme Documentation
+
+A static GitHub Pages-ready website theme inspired by Windows XP styling
 </div>
 
 ---
