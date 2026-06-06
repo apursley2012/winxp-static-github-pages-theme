@@ -1,0 +1,1 @@
+import{j as e,m as n}from"../assets/proxy.js";function r({children:a,className:s="",heavy:t=!1,delay:i=0}){return e.jsx(n.div,{initial:{opacity:0,y:20},animate:{opacity:1,y:0},transition:{duration:.5,delay:i,ease:"easeOut"},className:`${t?"aqua-glass-heavy":"aqua-glass"} rounded-2xl p-6 ${s}`,children:a})}export{r as A};
